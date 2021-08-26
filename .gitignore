@@ -3,3 +3,4 @@ downloads/*
 !downloads/.gitkeep
 !downloads/hero_data
 notebooks/scraping.ipynb
+dashboard/*
