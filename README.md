@@ -23,4 +23,4 @@ $ docker-compose down
 # Built With
 - [Dash](https://dash.plotly.com/) - Main server and interactive components
 - [Opendota](https://opendota.com/) - Website to get match and heroes informations
-- [Plotly python](https://plotly.com/python/) = Used to create interactive plots
+- [Plotly python](https://plotly.com/python/) - Used to create interactive plots
