@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  DOTA_dashboard:
+    build:
+      context: .
+    image: "dota-dashboard:v210829"
+    container_name: DOTA_dashboard
+    ports:
+      - "2810:2810"
+    restart: unless-stopped
