@@ -1,7 +1,6 @@
 reference/*
 downloads/*
-!downloads/.gitkeep
 !downloads/hero_data
 notebooks/scraping.ipynb
-dashboard/*
+__pycache__/
 .vscode

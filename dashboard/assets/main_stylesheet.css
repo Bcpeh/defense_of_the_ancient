@@ -1,0 +1,23 @@
+h1,h2,h3,h4,p {
+    font-family: "Open Sans", verdana, arial, sans-serif;
+}
+
+.vertical-middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropdown{
+    min-width: 250px;
+    margin: 15px;
+    text-align: center;
+}
+
+.graphs{
+    width: 90vw;
+    height: 90vh;
+    max-height: 1000px;
+    padding: 50px;
+}
